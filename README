@@ -1,11 +1,15 @@
 
 
-
 __ __, __,   __,  _, __,  _, __, __, _,_ _,    __, __,  _, ___  _, __, ___
  , | | \ |_    |_  / \ |_) / ` |_  |_  | | |     |_) |_  (_   |  /_\ |_)  | 
  ( | |_/ |     |   \ / | \ \ , |   |   | | | ,   | \ |   , )  |  | | | \  | 
   ~~ ~   ~~~   ~    ~  ~ ~  ~  ~~~ ~   `~' ~~~   ~ ~ ~~~  ~   ~  ~ ~ ~ ~  ~ 
                       http://blog.edendekker.me/
+
+A JD Edwards restart script that helps developers restart thier local JDE client many times. 
+Great for debugging memory exception issues. 
+This script is really just a wild card hit list driven windows process killer and file deleter. 
+You can easily modify this code for your own purposes outside JD Edwards. 
 
 
 

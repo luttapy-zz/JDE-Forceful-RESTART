@@ -27,7 +27,17 @@
 '  			       http://blog.edendekker.me    
 '
 '============================================================================
-
+'
+'A JD Edwards restart script that helps developers restart thier local JDE client many times. 
+'Great for debugging memory exception issues. 
+'This script is really just a wild card hit list driven windows process killer and file deleter. 
+'You can easily modify this code for your own purposes outside JD Edwards. 
+'
+'
+'
+'
+'
+'
 If Wscript.Arguments.Count = 0 Then
 	rtn = MsgBox( _
 	"      __   __     __ __  __    __   __ __                  __   __  _____   __ ___ " & vbCrLf & _
